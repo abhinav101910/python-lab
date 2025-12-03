@@ -1,0 +1,11 @@
+num1= int(input("Enter the first number")
+num2= int(input("Enter the second number")
+           if num1 < num2: 
+           min = num1
+           else:
+               min = num2
+               gcd=1
+               for i in range(1,min+1):
+                   gcd=1
+                   print(f"The GCD of {num1}and{num2}is{gcd}")
+                   
